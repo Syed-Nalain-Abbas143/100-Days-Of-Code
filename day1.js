@@ -1,5 +1,5 @@
 //100 Days of Code Day-1 
-//Data Types in Javascript
+//Variables in Javascript
 
 //var
 var a = 54;
