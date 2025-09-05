@@ -49,3 +49,4 @@ console.log(friendName.slice(1,4));
 console.log(friendName.replace("Ahmed","Jamil Ahmed"))
 
 console.log(friendName.trim());
+
